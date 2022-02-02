@@ -4,6 +4,7 @@
 int main ()
 {
    double a;
+//this sample comment
    scanf ("%lf", &a);
    double b;
    b = sqrt(a);
